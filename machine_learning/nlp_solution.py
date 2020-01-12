@@ -671,5 +671,5 @@ def send_text():
 
 #api.add_resource(GetRandomMessage, '/get_random_message') # Route_3
 if __name__ == '__main__':
-  app.run(port='5002')
+  app.run(debug=True)
 
