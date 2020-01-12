@@ -1,0 +1,7 @@
+Flask==0.12.2
+gunicorn==19.9.0
+nltk==3.4.5
+wordcloud==1.6.0
+pandas==0.25.1
+numpy==1.17.3
+Flask-RESTful==0.3.7
